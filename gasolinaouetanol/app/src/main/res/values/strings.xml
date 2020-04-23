@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gasolinaouetanol</string>
+    <string name="nomeDoProjeto">Gasolina ou Etanol</string>
+    <string name="fraseUm">Digite o valor da Gasolina e do Etanol</string>
+</resources>
